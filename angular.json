@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "observables"
+  "defaultProject": "observables",
+  "cli": {
+    "analytics": false
+  }
 }
